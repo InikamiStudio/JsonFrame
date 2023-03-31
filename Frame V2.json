@@ -30,7 +30,7 @@
      "Categories": [
     {
       "category": "Hari Nasional",
-      "image_link": "https://drive.google.com/file/d/1aYgEgS8xPNOcJCM1nSP_tAnRdhkJckeP/view?usp=sharing"
+      "image_link": "rectangle/farmasi.png"
 
     },
     {
@@ -65,8 +65,8 @@
       "id": 1,
       "type": 1,
       "category": "Hari Nasional",
-      "title": "Hari Persatuan Farmasi Indonesia",
-      "image_link": "rectangle/farmasi.png"
+      "title": "Hari Uji Coba 2023",
+      "image_link": "https://drive.google.com/file/d/1aYgEgS8xPNOcJCM1nSP_tAnRdhkJckeP/view?usp=share_link"
     },
     {
       "id": 2,

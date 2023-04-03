@@ -34,6 +34,11 @@
 
     },
     {
+      "category": "Idul Fitri 2023",
+      "image_link": "https://drive.google.com/u/0/uc?id=1KvShkb_klA7kqZaSazli4ZBAlenVZr1T/view?usp=download"
+
+    },
+    {
       "category": "Lain-Lain",
       "image_link": "rectangle/imlek1.png"
 
@@ -65,8 +70,8 @@
       "id": 1,
       "type": 1,
       "category": "Hari Nasional",
-      "title": "Hari Uji Coba 2023",
-      "image_link": "https://drive.google.com/u/0/uc?id=16ti4GNeXjpE5pCQs33Q6iYrNg5jVnPng&export=download"
+      "title": "Hari Persatuan Farmasi Indonesia 1",
+      "image_link": "rectangle/farmasi1.png"
     },
     {
       "id": 2,
@@ -259,6 +264,27 @@
       "category": "Brosur",
       "title": "Desain Flyer",
       "image_link": "portrait/brosur.png"
+    },
+     {
+      "id": 29,
+      "type": 1,
+      "category": "Idul Fitri 2023",
+      "title": "Idul Fitri 2023 1",
+      "image_link": "https://drive.google.com/u/0/uc?id=1bL5hJX11sldr1wwQomgqdCRyUOgTscXS/view?usp=download"
+    },
+     {
+      "id": 30,
+      "type": 1,
+      "category": "Idul Fitri 2023",
+      "title": "Idul Fitri 2023 2",
+      "image_link": "https://drive.google.com/u/0/uc?id=191tKmf-oPpr4jiqKmsWJPUz5mBMBJJPa/view?usp=download"
+    },
+     {
+      "id": 31,
+      "type": 1,
+      "category": "Idul Fitri 2023",
+      "title": "Idul Fitri 2023 3",
+      "image_link": "https://drive.google.com/u/0/uc?id=1Ked0OtHNkeILfTy0M9o9oKuEmjru-eQW/view?usp=download"
     }
   ]
 }

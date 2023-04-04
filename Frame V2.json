@@ -281,20 +281,86 @@
     },
        {
       "id": 31,
-      "type": 2,
+      "type": 1,
       "category": "Idul Fitri 2023",
       "title": "Idul Fitri 2023 1a",
       "image_link": "https://drive.google.com/u/0/uc?id=1bL5hJX11sldr1wwQomgqdCRyUOgTscXS&export=download"
     },
      {
       "id": 32,
-      "type": 2,
+      "type": 1,
+      "category": "Idul Fitri 2023",
+      "title": "Idul Fitri 2023 2a",
+      "image_link": "https://drive.google.com/u/0/uc?id=191tKmf-oPpr4jiqKmsWJPUz5mBMBJJPa&export=download"
+    },
+        {
+      "id": 33,
+      "type": 1,
+      "category": "Idul Fitri 2023",
+      "title": "Idul Fitri 2023 1a",
+      "image_link": "https://drive.google.com/u/0/uc?id=1bL5hJX11sldr1wwQomgqdCRyUOgTscXS&export=download"
+    },
+     {
+      "id": 34,
+      "type": 1,
+      "category": "Idul Fitri 2023",
+      "title": "Idul Fitri 2023 2a",
+      "image_link": "https://drive.google.com/u/0/uc?id=191tKmf-oPpr4jiqKmsWJPUz5mBMBJJPa&export=download"
+    },    {
+      "id": 35,
+      "type": 1,
+      "category": "Idul Fitri 2023",
+      "title": "Idul Fitri 2023 1a",
+      "image_link": "https://drive.google.com/u/0/uc?id=1bL5hJX11sldr1wwQomgqdCRyUOgTscXS&export=download"
+    },
+     {
+      "id": 36,
+      "type": 1,
+      "category": "Idul Fitri 2023",
+      "title": "Idul Fitri 2023 2a",
+      "image_link": "https://drive.google.com/u/0/uc?id=191tKmf-oPpr4jiqKmsWJPUz5mBMBJJPa&export=download"
+    },    {
+      "id": 37,
+      "type": 1,
+      "category": "Idul Fitri 2023",
+      "title": "Idul Fitri 2023 1a",
+      "image_link": "https://drive.google.com/u/0/uc?id=1bL5hJX11sldr1wwQomgqdCRyUOgTscXS&export=download"
+    },
+     {
+      "id": 38,
+      "type": 1,
+      "category": "Idul Fitri 2023",
+      "title": "Idul Fitri 2023 2a",
+      "image_link": "https://drive.google.com/u/0/uc?id=191tKmf-oPpr4jiqKmsWJPUz5mBMBJJPa&export=download"
+    },    {
+      "id": 39,
+      "type": 1,
+      "category": "Idul Fitri 2023",
+      "title": "Idul Fitri 2023 1a",
+      "image_link": "https://drive.google.com/u/0/uc?id=1bL5hJX11sldr1wwQomgqdCRyUOgTscXS&export=download"
+    },
+     {
+      "id": 40,
+      "type": 1,
+      "category": "Idul Fitri 2023",
+      "title": "Idul Fitri 2023 2a",
+      "image_link": "https://drive.google.com/u/0/uc?id=191tKmf-oPpr4jiqKmsWJPUz5mBMBJJPa&export=download"
+    },    {
+      "id": 31,
+      "type": 1,
+      "category": "Idul Fitri 2023",
+      "title": "Idul Fitri 2023 1a",
+      "image_link": "https://drive.google.com/u/0/uc?id=1bL5hJX11sldr1wwQomgqdCRyUOgTscXS&export=download"
+    },
+     {
+      "id": 132,
+      "type": 1,
       "category": "Idul Fitri 2023",
       "title": "Idul Fitri 2023 2a",
       "image_link": "https://drive.google.com/u/0/uc?id=191tKmf-oPpr4jiqKmsWJPUz5mBMBJJPa&export=download"
     },
      {
-      "id": 33,
+      "id": 133,
       "type": 1,
       "category": "Idul Fitri 2023",
       "title": "Idul Fitri 2023 3",

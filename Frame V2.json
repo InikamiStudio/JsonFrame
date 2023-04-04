@@ -214,8 +214,7 @@
       "category": "Brosur",
       "title": "Pamflet Orderan Ojol",
       "image_link": "portrait/ojol.png"
-    }
-  ,
+    },
     {
       "id": 22,
       "type": 2,
@@ -293,7 +292,7 @@
       "title": "Idul Fitri 2023 2",
       "image_link": "https://drive.google.com/u/0/uc?id=1njXvCyFIMuS1zyE-OjV437d6nJjdjtdH&export=download"
     },
-        {
+     {
       "id": 33,
       "type": 1,
       "category": "Idul Fitri 2023",
@@ -306,7 +305,8 @@
       "category": "Idul Fitri 2023",
       "title": "Idul Fitri 2023 4",
       "image_link": "https://drive.google.com/u/0/uc?id=1oZC4-OzLJRQxspT0zkNTnGD6w1WzLrUu&export=download"
-    },    {
+    },
+    {
       "id": 35,
       "type": 1,
       "category": "Idul Fitri 2023",
@@ -319,7 +319,8 @@
       "category": "Idul Fitri 2023",
       "title": "Idul Fitri 2023 6",
       "image_link": "https://drive.google.com/u/0/uc?id=1kPNm9XSTotkAzVWuHa4fsNVLII0gyx5u&export=download"
-    },    {
+    },
+    {
       "id": 37,
       "type": 1,
       "category": "Idul Fitri 2023",
@@ -332,7 +333,8 @@
       "category": "Idul Fitri 2023",
       "title": "Idul Fitri 2023 8",
       "image_link": "https://drive.google.com/u/0/uc?id=1203hhZq42MfWqZvOkV3GktNlh6VCZjOe&export=download"
-    },    {
+    },
+    {
       "id": 39,
       "type": 1,
       "category": "Idul Fitri 2023",
@@ -360,7 +362,7 @@
       "title": "Idul Fitri 2023 12",
       "image_link": "https://drive.google.com/u/0/uc?id=19oVngLQLJ_QeFMljvwQkC7X9gMUVtHFx&export=download"
     },
-        {
+      {
       "id": 43,
       "type": 1,
       "category": "Idul Fitri 2023",
@@ -373,7 +375,8 @@
       "category": "Idul Fitri 2023",
       "title": "Idul Fitri 2023 14",
       "image_link": "https://drive.google.com/u/0/uc?id=16Aa75cjXp8y1xFe6gsYdzQMoZivL0IUI&export=download"
-    },    {
+    },
+    {
       "id": 45,
       "type": 1,
       "category": "Idul Fitri 2023",
@@ -400,7 +403,8 @@
       "category": "Idul Fitri 2023",
       "title": "Idul Fitri 2023 18",
       "image_link": "https://drive.google.com/u/0/uc?id=1XiGi9KuDZ3cPoUzi7t107oC6jEWRShkP&export=download"
-    },    {
+    },
+    {
       "id": 49,
       "type": 1,
       "category": "Idul Fitri 2023",
@@ -413,7 +417,7 @@
       "category": "Idul Fitri 2023",
       "title": "Idul Fitri 2023 20",
       "image_link": "https://drive.google.com/u/0/uc?id=1gPQlz8SecwTfsCYtcdXcRAEbfDYC51uh&export=download"
-     {
+     },
         {
       "id": 51,
       "type": 2,
@@ -441,7 +445,8 @@
       "category": "Idul Fitri 2023",
       "title": "Idul Fitri 2023 24",
       "image_link": "https://drive.google.com/u/0/uc?id=11FhfgI08y_oyVvtQJFtTkgqFHbs9hMTD&export=download"
-    },    {
+    },    
+    {
       "id": 55,
       "type": 2,
       "category": "Idul Fitri 2023",
@@ -455,6 +460,7 @@
       "title": "Idul Fitri 2023 26",
       "image_link": "https://drive.google.com/u/0/uc?id=1U8fTgeHP6c-tY1BBDgcgTS1T7Jdws2lP&export=download"
     },
+    {
       "id": 133,
       "type": 1,
       "category": "Idul Fitri 2023",

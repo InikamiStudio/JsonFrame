@@ -29,7 +29,7 @@
   ],
      "Categories": [
     {
-      "category": "Hari Nasional",
+      "category": "Hari Nasional Indonesia",
       "image_link": "rectangle/farmasi.png"
 
     },
@@ -50,27 +50,27 @@
     },
     {
       "category": "Lain-Lain",
-      "image_link": "rectangle/imlek1.png"
+      "image_link": "rectangle/nu1.webp"
 
     },
     {
-      "category": "Keagamaan",
-      "image_link": "rectangle/israa.png"
+      "category": "Hari Besar Islam",
+      "image_link": "rectangle/israb.png"
 
     },
     {
-      "category": "Kalender",
-      "image_link": "rectangle/kalender1.png"
+      "category": "Kalender BTS",
+      "image_link": "rectangle/kalender2.png"
 
     },
     {
-      "category": "Undangan",
-      "image_link":  "portrait/wedding2.png"
+      "category": "Kartu Ucapan",
+      "image_link":  "portrait/wedding1.png"
 
     },
     {
-      "category": "Brosur",
-      "image_link":  "portrait/cuci.png"
+      "category": "Flayer",
+      "image_link":  "portrait/ojol.png"
 
     }
   ],

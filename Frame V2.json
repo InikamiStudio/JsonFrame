@@ -29,8 +29,8 @@
   ],
      "Categories": [
     {
-      "category": "Hari Nasional Indonesia",
-      "image_link": "rectangle/farmasi.png"
+      "category": "Hari Nasional",
+      "image_link": "rectangle/pers.png"
 
     },
     {
@@ -107,28 +107,28 @@
     {
       "id": 5,
       "type": 1,
-      "category": "Keagamaan",
+      "category": "Hari Besar Islam",
       "title": "Peringatan Isra Mi'raj 1",
       "image_link": "rectangle/israa.png"
     },
     {
       "id": 6,
       "type": 1,
-      "category": "Keagamaan",
+      "category": "Hari Besar Islam",
       "title": "Peringatan Isra Mi'raj 2",
       "image_link": "rectangle/israb.png"
     },
     {
       "id": 7,
       "type": 1,
-      "category": "Kalender",
+      "category": "Kalender BTS",
       "title": "Kalender BTS Maret 2022",
       "image_link": "rectangle/kalender1.png"
     },
     {
       "id": 8,
       "type": 1,
-      "category": "Kalender",
+      "category": "Kalender BTS",
       "title": "Kalender BTS Mei 2022",
       "image_link": "rectangle/kalender2.png"
     },
@@ -214,14 +214,14 @@
     {
       "id": 20,
       "type": 2,
-      "category": "Brosur",
+      "category": "Flayer",
       "title": "Kehilangan Anjing",
       "image_link": "portrait/dog.png"
     },
     {
       "id": 21,
       "type": 2,
-      "category": "Brosur",
+      "category": "Flayer",
       "title": "Pamflet Orderan Ojol",
       "image_link": "portrait/ojol.png"
     },
@@ -235,42 +235,42 @@
     {
       "id": 24,
       "type": 2,
-      "category": "Brosur",
+      "category": "Flayer",
       "title": "Iklan Laundry",
       "image_link": "portrait/cuci.png"
     },
     {
       "id": 25,
       "type": 2,
-      "category": "Undangan",
+      "category": "Kartu Ucapan",
       "title": "Undangan Pernikahan",
       "image_link": "portrait/wedding.png"
     },
     {
       "id": 25,
       "type": 2,
-      "category": "Undangan",
+      "category": "Kartu Ucapan",
       "title": "Undangan Pernikahan",
       "image_link": "portrait/wedding2.png"
     },
     {
       "id": 26,
       "type": 2,
-      "category": "Undangan",
+      "category": "Kartu Ucapan",
       "title": "Undangan Ulang Tahun",
       "image_link": "portrait/ultah.png"
     },
     {
       "id": 27,
       "type": 2,
-      "category": "Undangan",
+      "category": "Kartu Ucapan",
       "title": "Undangan Ulang Tahun",
       "image_link": "portrait/ultah2.png"
     },
     {
       "id": 28,
       "type": 2,
-      "category": "Brosur",
+      "category": "Flayer",
       "title": "Desain Flyer",
       "image_link": "portrait/brosur.png"
     },
